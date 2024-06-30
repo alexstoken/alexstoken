@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Alex. I'm a Data Scientist at NASA Johnson Space Center in the [Astromaterials Exploration Sciences Division](https://ares.jsc.nasa.gov/), working across the [Earth Science and Remote Sensing Unit](https://ares.jsc.nasa.gov/image-science/esrs/), [Image Science and Analysis Group](https://ares.jsc.nasa.gov/image-science/isag/), and [Exploration Sciences](https://ares.jsc.nasa.gov/missions/Artemis/) deparetments. 
+
+Some of my work projects, and more about me, can be found at my [personal website](https://alexstoken.github.io/). Contributions to open source projects are below. 
